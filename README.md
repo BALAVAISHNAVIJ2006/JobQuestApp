@@ -55,7 +55,7 @@ This is the first screen where users can log in using email and password.
 ### 2. Home Feed  
 Displays available job posts and recommendations.
 
-![Home Feed](screenshots/Home.png)
+![Home Feed](screenshorts/Home.png.png)
 
 ### 3. Job Details  
 Users can view full job descriptions, company info, and apply.
