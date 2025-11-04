@@ -50,27 +50,27 @@ JobQuestApp/
 ### 1. Login Page  
 This is the first screen where users can log in using email and password.
 
-![Login Page](screenshots/Login.png)
+![Login Page](screenshots/Login.png.png)
 
 ### 2. Home Feed  
 Displays available job posts and recommendations.
 
-![Home Feed](screenshots/Home.png)
+![Home Feed](screenshots/Home.png.png)
 
 ### 3. Job Details  
 Users can view full job descriptions, company info, and apply.
 
-![Job Details](screenshots/Job.png)
+![Job Details](screenshots/Job.png.png)
 
 ### 4. Messaging  
 Chat interface to communicate with recruiters or other users.
 
-![Messaging](screenshots/Message.png)
+![Messaging](screenshots/Message.png.png)
 
 ### 5. Profile  
 Shows user's personal details, saved jobs, and activity.
 
-![Profile](screenshots/Profile.png)
+![Profile](screenshots/Profile.png.png)
 
 
 ## 📈 Future Enhancements
